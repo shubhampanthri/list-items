@@ -1,0 +1,54 @@
+#header{
+    background-color: chartreuse;
+    width: 100pc;
+    height: 100px;
+    text-align:center;
+    align-items: center;
+    align-content: center;
+    border: 3px solid red ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-transform:uppercase;
+    word-spacing: 20px;
+    letter-spacing: 15px;
+    margin: 10px;
+}
+#itemheader{
+    width: 100pc;
+   word-spacing: 5px;
+   letter-spacing: 2px;
+  font-style: bold;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border: 3px solid black;
+font-size: larger;
+font-family: 'Times New Roman', Times, serif;
+}
+.additems{
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    background-color: rgb(206, 231, 206);
+text-transform: uppercase;
+}
+li{
+   
+    border: solid 1px rgb(224, 209, 209);
+    font-size: x-large;
+border-bottom: 2px solid rgb(226, 60, 60);
+text-transform: uppercase;
+
+}
+input{
+    background-color: rosybrown;
+    color: rgb(7, 77, 42);
+    font-size: xx-large;
+font-family: cursive;
+text-transform: uppercase;
+} 
+
+.sp{
+text-decoration: line-through;
+font-size: xx-large;
+}
